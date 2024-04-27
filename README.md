@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**WYC-E/WYC-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# WYC-E
 
-Here are some ideas to get you started:
+HI！我是WYC-E
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我今年十岁
+
+我的网站：[wyc-w.top](http://wyc-w.top "wyc-w.top")
+备用地址：[by.wyc-w.top](http://by.wyc-w.top "by.wyc-w.top")
+``
+# English
+## WYC-E
+Hi! I am WYC-E
+
+I am ten years old this year
+
+My website: [wyc-w.top](http://wyc-w.top "wyc-w.top")
+Alternative address: [by.wyc-w.top](http://by.wyc-w.top "by.wyc-w.top")
