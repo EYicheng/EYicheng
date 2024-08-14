@@ -16,3 +16,5 @@ I am 12 years old this year
 
 My website: [wyc-w.top](http://wyc-w.top "wyc-w.top")
 Alternative address: [by.wyc-w.top](http://by.wyc-w.top "by.wyc-w.top")
+
+![](https://raw.githubusercontent.com/WYC-E/WYC-E/main/assets/github-snake.svg)
