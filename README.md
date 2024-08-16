@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=221&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%F0%9F%91%8B+%7C+Hello!%F0%9F%91%8B)
 
-<h3 align="center">I am a middle school student from China</h3>
+<h3>I am a middle school student from China</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
