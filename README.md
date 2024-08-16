@@ -1,6 +1,6 @@
 
 # WYC-E
-[![Generic badge](https://img.shields.io/badge/Mywebsite-wyc-w.top-red.svg)](https://wyc-w.top/)
+[![Generic badge](https://img.shields.io/badge/MyWebsite-ClickHere-red.svg)](https://wyc-w.top/)
 HI！我是WYC-E
 
 我今年12岁
