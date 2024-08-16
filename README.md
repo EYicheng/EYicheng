@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=wyc-e&color=green)
 
 
-##HI！我是WYC-E | Hi! I am WYC-E
+## HI！我是WYC-E | Hi! I am WYC-E
 
 我今年12岁 | I am 12 years old this year
 
