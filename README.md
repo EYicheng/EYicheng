@@ -1,6 +1,6 @@
 
 # WYC-E
-
+[![Generic badge](https://img.shields.io/badge/My website-wyc-w.top-red.svg)](https://wyc-w.top/)
 HI！我是WYC-E
 
 我今年12岁
@@ -9,7 +9,6 @@ HI！我是WYC-E
 
 
 # English
-## WYC-E
 Hi! I am WYC-E
 
 I am 12 years old this year
