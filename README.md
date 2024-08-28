@@ -12,7 +12,7 @@
 <h3>Connect with me:</h3>
 <a href="https://twitter.com/eason_861_en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eason_861_en" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/eason_861_en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eason_861_en" height="30" width="40" /></a>
-<a href="https://space.bilibili.com/1676930979" target="blank"><img align="center" src="favicon.ico" alt="eason_861_en" height="32" width="32" /></a>
+<a href="https://space.bilibili.com/1676930979" target="blank"><img align="center" src="https://raw.githubusercontent.com/WYC-E/app-icon/main/bilibili.svg" alt="eason_861_en" height="32" width="32" /></a>
 <br/>
 
 我的网站：[wyc-w.top](http://wyc-w.top "wyc-w.top") | My website: [wyc-w.top](http://wyc-w.top "wyc-w.top")
