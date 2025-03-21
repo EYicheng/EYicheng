@@ -1,4 +1,4 @@
-<h1>WYC-E</h1>
+<h1>EYicheng</h1>
 
 [![Generic badge](https://img.shields.io/badge/MyWebsite-ClickHere-red.svg)](https://wyc-w.top/)
 ![](https://komarev.com/ghpvc/?username=wyc-e&color=green)
