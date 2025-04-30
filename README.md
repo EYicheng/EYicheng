@@ -18,5 +18,5 @@
 
 我的网站：[wyc-w.top](http://wyc-w.top "wyc-w.top") | My website: [wyc-w.top](http://wyc-w.top "wyc-w.top")
 
-![](https://raw.githubusercontent.com/WYC-E/WYC-E/main/assets/github-snake.svg)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyc-e)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/eyicheng/eyicheng/main/assets/github-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyicheng)](https://github.com/anuraghazra/github-readme-stats)
