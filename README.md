@@ -20,4 +20,4 @@
 
 ![](https://raw.githubusercontent.com/eyicheng/eyicheng/main/assets/github-snake.svg)
 ![](https://github-readme-stats.vercel.app/api?username=EYicheng&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vue&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EYicheng)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EYicheng&layout=compact&theme=vu)
