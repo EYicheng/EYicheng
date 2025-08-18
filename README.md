@@ -19,4 +19,5 @@
 我的网站：[wyc-w.top](http://wyc-w.top "wyc-w.top") | My website: [wyc-w.top](http://wyc-w.top "wyc-w.top")
 
 ![](https://raw.githubusercontent.com/eyicheng/eyicheng/main/assets/github-snake.svg)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyicheng)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=EYicheng&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=graywhite&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EYicheng&layout=compact0)
